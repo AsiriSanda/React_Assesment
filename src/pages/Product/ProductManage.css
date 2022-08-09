@@ -1,0 +1,14 @@
+body{
+    background-color: #d9d9d9;
+}
+
+.productManage__container{
+    display: flex;
+    flex-direction: column;
+    /* background-color: aqua; */
+}
+
+.grid_items_style{
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+}
